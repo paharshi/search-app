@@ -95,6 +95,8 @@ body{
     position: absolute;
     top:0;
     left:0;
+    display: flex;
+    justify-content: flex-start;
     text-align: justify;
     padding: 0.5rem 1rem;
     display: none;
